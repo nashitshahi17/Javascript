@@ -31,3 +31,15 @@ console.log(boolisL) // It will be false
 // String with val like "hi" => true
 
 
+// *********************************Operation***************************************
+
+let value = 3
+let negvalue = -value
+console.log(negvalue)
+
+console.log("1"+2) //12
+console.log(1+"2") // 12
+console.log("1"+2+2) //122
+console.log(1+2+"2") //32
+console.log(+true) //1
+console.log(+"") //0
